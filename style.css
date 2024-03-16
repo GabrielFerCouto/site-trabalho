@@ -71,6 +71,7 @@ body{
 #estudante-todos{
     display: grid;
     grid-template-columns: 33% 33% 33%;
+    background-color: #EDEEC9;
 }
 
 .rodape{
@@ -89,4 +90,8 @@ body{
 
 .escola-text2 {
     font-size: larger;
+}
+
+.estudante {
+    background-color: #EDEEC9;
 }
